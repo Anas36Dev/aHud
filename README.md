@@ -7,7 +7,6 @@
 3. Vous n'avez rien à configurer contrairement à mes autres scripts, celuis-ci est déjà entièrement configurer et rien ne peux être modifier appart les couleurs des bulles.
    
 -> Discord Support : https://discord.gg/j4ywQ5puXU
--> Vidéo Installation : 
 
 # [Tuto EN] 
 
